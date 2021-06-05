@@ -41,5 +41,6 @@ public class MainActivity extends AppCompatActivity {
         textView.setText(username);
     }*/
 
-    // a new commit
+
+    // Ok i'll just add a comment
 }
