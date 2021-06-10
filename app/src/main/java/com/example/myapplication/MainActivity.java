@@ -50,4 +50,6 @@ public class MainActivity extends AppCompatActivity {
     // Salman change
 
     // added flag
+
+    // added flags and fixed the location of the flag
 }
