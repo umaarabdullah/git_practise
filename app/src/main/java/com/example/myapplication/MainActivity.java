@@ -48,4 +48,8 @@ public class MainActivity extends AppCompatActivity {
     // create and branch and commit and then push
 
     // Salman change
+
+    // added flag
+
+    // added flags and fixed the location of the flag
 }
