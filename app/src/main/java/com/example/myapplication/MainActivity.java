@@ -32,14 +32,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.next_screen);
     }
 
-    public void onClickSubmitButton(View view){
+    //public void onClickSubmitButton(View view){
 
         //EditText editText = findViewById(R.id.userNameInput);
         //String username = editText.getText().toString();
         //Log.i("submit", "username entered" + username);
         //TextView textView = findViewById(R.id.displayUsername);
         //textView.setText(username);
-    }
+    //}
 
 
 
