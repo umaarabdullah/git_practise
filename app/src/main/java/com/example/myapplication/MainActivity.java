@@ -31,15 +31,17 @@ public class MainActivity extends AppCompatActivity {
     public void goToNextScreen(View view){
         setContentView(R.layout.next_screen);
     }
-/*
+
     public void onClickSubmitButton(View view){
 
-        EditText editText = findViewById(R.id.userNameInput);
-        String username = editText.getText().toString();
-        Log.i("submit", "username entered" + username);
-        TextView textView = findViewById(R.id.displayUsername);
-        textView.setText(username);
-    }*/
+        //EditText editText = findViewById(R.id.userNameInput);
+        //String username = editText.getText().toString();
+        //Log.i("submit", "username entered" + username);
+        //TextView textView = findViewById(R.id.displayUsername);
+        //textView.setText(username);
+    }
+
+
 
 
     // Ok i'll just add a comment
