@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("submit", "username entered" + username);
         TextView textView = findViewById(R.id.displayUsername);
         textView.setText(username);
-    }*/
+    }
 
 
     // Ok i'll just add a comment
